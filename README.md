@@ -1,4 +1,4 @@
-# Hello, I am Rifat
+# Assalamu Alaikum, and welcome. Whether you're here to try a tool or just look around, glad to have you.
 
 I am a civil engineering and media professional in Dhaka, Bangladesh. I make promos, titles and motion graphics, and I build small Windows tools for the parts of that work that should not take
 so long.
