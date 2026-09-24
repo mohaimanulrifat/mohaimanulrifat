@@ -20,7 +20,7 @@ forms on each page come straight to me.
 ## Elsewhere
 
 - LinkedIn: [md-mohaimanul-islam](https://www.linkedin.com/in/md-mohaimanul-islam)
-- Email: mohaimanulrifat@outlook.com
+- Email: mohaimanul.islam@outlook.com
 
 <!--
   How to use this file:
